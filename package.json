@@ -1,6 +1,6 @@
 {
   "name": "stacks-pix-sdk",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "TypeScript SDK for interacting with the StacksPix pixel board smart contract on Stacks blockchain",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
